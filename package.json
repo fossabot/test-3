@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mymoney": "^1.0.8"
+    "mymoney": "^1.0.9"
   }
 }
